@@ -3,7 +3,6 @@
 
 use Illuminate\Support\Str;
 
-$DATABASE_URL = parse_url('postgres://zamfwbnapexmgr:472e6f44859112f3b505c2e3271675d93476cb5e12b7e135cc5586534fed7da6@ec2-23-20-20-150.compute-1.amazonaws.com:5432/dea2gq399sr0qf');
 
 return [
     
@@ -68,12 +67,12 @@ return [
 
         'pgsql' => [
             'driver' => 'pgsql',
-            'url' => $DATABASE_URL,
-            'host' => $DATABASE_URL["host"],
-            'port' => $DATABASE_URL["port"],
-            'database' => ltrim($DATABASE_URL["path"], "/"),
-            'username' => $DATABASE_URL["user"],
-            'password' => $DATABASE_URL["pass"],
+            'url' => 'postgres://zamfwbnapexmgr:472e6f44859112f3b505c2e3271675d93476cb5e12b7e135cc5586534fed7da6@ec2-23-20-20-150.compute-1.amazonaws.com:5432/dea2gq399sr0qf',
+            'host' => 'ec2-23-20-20-150.compute-1.amazonaws.com',
+            'port' => '5432',
+            'database' => 'dea2gq399sr0qf',
+            'username' => 'zamfwbnapexmgr',
+            'password' => '472e6f44859112f3b505c2e3271675d93476cb5e12b7e135cc5586534fed7da6',
             'charset' => 'utf8',
             'prefix' => '',
             'prefix_indexes' => true,
