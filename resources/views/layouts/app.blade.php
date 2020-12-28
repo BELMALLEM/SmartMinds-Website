@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-    <meta name="author" content="Free-Template.co" />
-    <link rel="shortcut icon" href="ftco-32x32.png">
+    <meta name="author" content="Marouane BELMALLEM" />
+    <link rel="shortcut icon" href="https://cdn.freebiesupply.com/logos/large/2x/open-source-logo-svg-vector.svg">
 
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="css/style.css">
@@ -162,14 +162,15 @@
 
     <!-- SCRIPTS -->
     <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/stickyfill.min.js"></script>
+    
     <script src="js/jquery.fancybox.min.js"></script>
     <script src="js/jquery.easing.1.3.js"></script>
     
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/stickyfill.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     
     <script src="js/bootstrap-select.min.js"></script>
