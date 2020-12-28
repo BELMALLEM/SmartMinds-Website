@@ -133,4 +133,4 @@
     </section>
 
   
-@section('content')
+@endsection('content')
