@@ -23,6 +23,6 @@ class FormationsController extends Controller
      */
     public function index()
     {
-        return view('formations');
+        return view('Formations');
     }
 }
