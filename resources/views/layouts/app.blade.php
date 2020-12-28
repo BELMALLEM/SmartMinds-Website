@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-<title>JobBoard </title>
+<title>SmartMinds </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="" />
@@ -9,6 +9,9 @@
     <meta name="author" content="Free-Template.co" />
     <link rel="shortcut icon" href="ftco-32x32.png">
 
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    
     <link rel="stylesheet" href="css/custom-bs.css">
     <link rel="stylesheet" href="css/jquery.fancybox.min.css">
     <link rel="stylesheet" href="css/bootstrap-select.min.css">
@@ -19,8 +22,7 @@
     <link rel="stylesheet" href="css/quill.snow.css">
     
 
-    <!-- MAIN CSS -->
-    <link rel="stylesheet" href="css/style.css"> 
+     
     
    
 </head>
