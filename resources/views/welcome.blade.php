@@ -207,4 +207,4 @@
       <p></p>
     </section>
 
-@section('content')
+@endsection('content')
