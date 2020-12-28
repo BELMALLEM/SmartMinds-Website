@@ -1,4 +1,4 @@
-# Smart-Minds :bowtie:
+# Smart-Minds :heart_eyes:
 [![Website smartminds.herokuapp.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)   [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/BELMALLEM/SmartMinds-Website)   [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/BELMALLEM/SmartMinds-Website/issues/)   [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/BELMALLEM/)
 
 This project is about a website of an imaginary learning-center called SmartMinds.
