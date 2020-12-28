@@ -1,9 +1,9 @@
-$DATABASE_URL=parse_url("postgres://zamfwbnapexmgr:472e6f44859112f3b505c2e3271675d93476cb5e12b7e135cc5586534fed7da6@ec2-23-20-20-150.compute-1.amazonaws.com:5432/dea2gq399sr0qf");
-
 <?php
 
 
 use Illuminate\Support\Str;
+
+$DATABASE_URL=parse_url("postgres://zamfwbnapexmgr:472e6f44859112f3b505c2e3271675d93476cb5e12b7e135cc5586534fed7da6@ec2-23-20-20-150.compute-1.amazonaws.com:5432/dea2gq399sr0qf");
 
 return [
     
